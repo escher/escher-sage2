@@ -1,0 +1,16 @@
+{
+    "main_script": "escher_sage2.js",
+    "icon": "escher-logo.png",
+	"width": 800,
+	"height": 600,
+	"dependencies": [
+        "scripts/js/escher.min.js",
+        "scripts/js/bootstrap.min.js"
+	],
+	"title": "escher_sage2",
+	"version": "0.1.0",
+	"description": "Escher pathway visualization in Sage2",
+	"keywords": [ "Escher", "metabolism", "genome-scale model", "systems biology" ],
+	"author": "Zachary King <zaking@ucsd.edu>",
+	"license": "MIT"
+}
